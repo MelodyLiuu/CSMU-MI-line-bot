@@ -16233,7 +16233,7 @@ def handle_message(event):
             line_bot_api.reply_message_with_http_info(
                 ReplyMessageRequest(
                     reply_token=event.reply_token,
-                    messages=[TextMessage(text="非常抱歉，\n我不太懂你想問什麼><\n建議多使用以下的圖文選單進行詢問或是輸入關鍵字詞！")]
+                    messages=[TextMessage(text="感謝您的訊息！\n非常抱歉，本系統無法理解您的訊息><\n建議多使用以下的圖文選單進行詢問或是輸入關鍵字詞哦！")]
                 )
             )
 
