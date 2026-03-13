@@ -8,7 +8,6 @@
 
 在實際使用者測試中，系統獲得 **87.5% 的整體滿意度**。多數參與學生對於 **操作流暢度、資訊完整性、介面簡潔度與回應速度**皆給予正面回饋，顯示此工具能有效協助新生快速融入系上環境。
 
-#### 完整報告：https://github.com/MelodyLiuu/CSMU-MI-line-bot/blob/main/report.pdf
 ---
 
 ## 主要功能
@@ -88,3 +87,5 @@
 5. 系統回傳對應資訊或互動選單給使用者
 
 透過上述流程，系統可實現 **即時互動與資訊查詢服務**。
+
+#### 完整報告：https://github.com/MelodyLiuu/CSMU-MI-line-bot/blob/main/report.pdf
